@@ -2,7 +2,7 @@
   "type": "step_based",
   "name": "mysce",
   "active": false,
-  "runAsUser": "filipe",
+  "runAsUser": "user1",
   "checklists": {
     "checklists": []
   },
