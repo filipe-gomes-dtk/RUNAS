@@ -2,13 +2,7 @@
   "type": "step_based",
   "name": "mysce",
   "active": false,
-  "creationTag": {
-    "versionNumber": 0,
-    "lastModifiedBy": {
-      "login": "admin"
-    },
-    "lastModifiedOn": 1790938829949
-  },
+  "runAsUser": "filipe",
   "checklists": {
     "checklists": []
   },
