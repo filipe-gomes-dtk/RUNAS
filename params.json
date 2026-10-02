@@ -32,7 +32,7 @@
     },
     {
       "user": "user1",
-      "admin": false,
+      "admin": true,
       "editPermissions": true,
       "readProjectContent": true,
       "writeProjectContent": true,
